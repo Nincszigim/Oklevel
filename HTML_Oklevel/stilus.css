@@ -1,0 +1,28 @@
+body { background-color: lightgrey;
+    font-size: larger;
+    margin: auto;
+    width: 60%
+    height: 10cm
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p { font-size: larger;
+}
+
+strong { color: red;
+
+}
+
+div {
+    border: solid;
+    padding: 12%;
+    border-image-source: url(Képek\\asd.jfif);
+    box-shadow:20px 20px 25px black;
+    background-color: lightgoldenrodyellow;
+    border-image-slice: 35%;
+    border-image-width: 25%;
+    text-align: center;
+}
